@@ -192,7 +192,7 @@ export default function CreateListing() {
                         <span className='text-xs'>(Rs / month)</span>
                         </div>
                     </div>
-                    )};
+                    )}
                 </div>
             </div>
             <div className='flex flex-col flex-1 gap-4'>
