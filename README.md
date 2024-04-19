@@ -1,5 +1,6 @@
-![GitHub Logo](C:\Users\sushi\OneDrive\Desktop\MERN-Estate\client\public\screencapture-localhost-5173-2024-04-19-10_28_14.png)
-Format: ![Alt Text](/public/screencapture-localhost-5173-2024-04-19-10_28_14.png)
+# HomePage
+
+(/public/screencapture-localhost-5173-2024-04-19-10_28_14.png)
 
 # About Nepal Estate
 
