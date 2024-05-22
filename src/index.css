@@ -3,5 +3,6 @@
 @tailwind utilities;
   
 body{
+    align-items: center;
     background-color: rgb(241, 245, 241);
 }
