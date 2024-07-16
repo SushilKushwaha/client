@@ -1,7 +1,11 @@
-
-
-import { Footer } from 'flowbite-react';
-import { BsDribbble, BsFacebook, BsGithub, BsInstagram, BsTwitter } from 'react-icons/bs';
+import { Footer } from "flowbite-react";
+import {
+  BsDribbble,
+  BsFacebook,
+  BsGithub,
+  BsInstagram,
+  BsTwitter,
+} from "react-icons/bs";
 
 export default function TailEnd() {
   return (
@@ -20,7 +24,6 @@ export default function TailEnd() {
           <div>
             <Footer.Title title="Help Center" />
             <Footer.LinkGroup col>
-              
               <Footer.Link href="#">Twitter</Footer.Link>
               <Footer.Link href="#">Facebook</Footer.Link>
               <Footer.Link href="#">Contact Us</Footer.Link>
@@ -43,7 +46,8 @@ export default function TailEnd() {
           </div>
         </div>
         <div className="w-full bg-slate-500 px-4 py-6 sm:flex sm:items-center sm:justify-between">
-          <Footer.Copyright href="#" by="NepalEstate       Devloped By: Sushil K Kushwaha" year={2024} />
+          <Footer.Copyright href="#" by="| NepalEstate" year={2024} />
+          <p>Devloped By: Sushil K Kushwaha</p>
           <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
             <Footer.Icon href="#" icon={BsFacebook} />
             <Footer.Icon href="#" icon={BsInstagram} />
